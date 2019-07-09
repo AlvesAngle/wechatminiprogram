@@ -5,7 +5,11 @@
     <image src='/image/icon64_appwx_logo.png' class='userimage' ></image>
     <text class='username'>heliar</text>
   </view>
-  <view class='image'></view>
+  <scroll-view class='image'  scroll-x="true" bindscroll="scroll" style="width: 100%">
+    <image src='/image/icon64_appwx_logo.png' class='galleryimage'></image>
+    <image src='/image/icon64_appwx_logo.png' class='galleryimage'></image>
+    <image src='/image/icon64_appwx_logo.png' class='galleryimage'></image>
+  </scroll-view>
   <view class='bar'>
     <view>1</view>
     <view>2</view>

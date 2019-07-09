@@ -18,6 +18,12 @@
   margin: 20rpx
 }
 
+.galleryimage {
+  height: 280rpx;
+  width: 280rpx;
+  margin: 20rpx
+}
+
 .username {
   justify-content: flex-start;
   flex-direction: column-reverse;
@@ -26,6 +32,7 @@
 }
 
 .image {
+  white-space: nowrap;
   justify-content: flex-start;
   display: flex;
   flex-direction: row;
