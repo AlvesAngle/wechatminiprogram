@@ -1,0 +1,42 @@
+/* pages/list/list.wxss */
+
+
+
+.ico {
+  justify-content: flex-start;
+  display: flex;
+  align-items: flex-end;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  height: 100rpx;
+  margin: 20rpx
+}
+
+.userimage {
+  height: 100rpx;
+  width: 100rpx;
+  margin: 20rpx
+}
+
+.username {
+  justify-content: flex-start;
+  flex-direction: column-reverse;
+  align-items: flex-end;
+  margin: 20rpx
+}
+
+.image {
+  justify-content: flex-start;
+  display: flex;
+  flex-direction: row;
+  flex-wrap:  wrap;
+  height: 300rpx;
+  margin: 20rpx
+}
+
+.bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 20rpx
+}

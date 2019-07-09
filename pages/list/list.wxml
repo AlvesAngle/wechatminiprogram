@@ -1,0 +1,14 @@
+<!--pages/list/list.wxml-->
+<!-- 图片列表 -->
+<view class='section'>
+  <view class='ico'>
+    <image src='/image/icon64_appwx_logo.png' class='userimage' ></image>
+    <text class='username'>heliar</text>
+  </view>
+  <view class='image'></view>
+  <view class='bar'>
+    <view>1</view>
+    <view>2</view>
+    <view>3</view>
+  </view>
+</view>
